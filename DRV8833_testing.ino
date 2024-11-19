@@ -1,4 +1,5 @@
 // this is to test the pwm output of your DRV8833 driver via esp32
+//motors used in this test were 720 brushed micro motors with 55mm props
 // Define pins
 #define MOTOR_IN1 14
 #define MOTOR_IN2 27
