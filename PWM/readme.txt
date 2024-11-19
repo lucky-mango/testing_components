@@ -1,2 +1,1 @@
-This code is just to showcase PWM capabilities. 
-Check the voltage at pin 23 and GND, it must give u 50% of the usual outuput of the esp32 via that pin which is around 1.6 Volts.
+This code is designed to demonstrate the PWM (Pulse Width Modulation) capabilities of the ESP32. To verify its functionality, measure the voltage between pin 23 and GND. The voltage should be approximately 50% of the ESP32's typical output, which is around 1.6 volts. This confirms the correct operation of the PWM signal at the specified duty cycle.
