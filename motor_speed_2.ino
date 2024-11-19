@@ -1,4 +1,4 @@
-//// this is to test the pwm output of your DRV8833 driver via esp32
+// this is to test the pwm output of your DRV8833 driver via esp32
 // Define pins
 #define MOTOR_IN1 14
 #define MOTOR_IN2 27
